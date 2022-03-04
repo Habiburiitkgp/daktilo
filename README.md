@@ -1,10 +1,7 @@
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kronik3r/daktilo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-# Daktilo
-Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
-# More info and Live preview
-[Click here](http://daktilo.github.io/) to see the theme in action.
+My Name is Habibur Rahaman
 
 # Features
 - Fully responsive
